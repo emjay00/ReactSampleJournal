@@ -1,0 +1,26 @@
+
+
+.nav{
+background-color: #f55a5a;
+display: flex;
+text-align: center;
+align-items: center;
+justify-content: center;
+height: 70px;
+
+}
+
+.head{
+    color: white;
+    font-family:'Poppins', sans-serif;
+    font-size:20px;
+    
+
+}
+
+.nav--image{
+    height:35px;
+    padding: 10px 10px ;
+ 
+}
+

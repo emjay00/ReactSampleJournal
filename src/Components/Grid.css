@@ -1,0 +1,56 @@
+
+
+.container {
+  display: flex;
+  padding: 30px 30px 30px 30px;
+  font-family: "Inter", sans-serif;
+  border-bottom: 1px solid #bbb;
+}
+
+.grid--image {
+  width: 150px;
+  height: 200px;
+  border-radius: 9px;
+  margin-right: 20px;
+}
+
+.grid--date {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 12px;
+  color: #2b283a;
+}
+
+h3 {
+  font-style: normal;
+  font-weight: 900;
+  font-size: 30px;
+  line-height: 30px;
+  
+}
+
+.grid--loc {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 12px;
+  letter-spacing: 0.2em;
+  float: left;
+  margin-right: 20px;
+}
+
+a {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13;
+  line-height: 12px;
+  /* identical to box height */
+  text-decoration-line: underline;
+  color: #918e9b;
+  float: left;
+}
+
+.grid--para {
+  line-height: 150%;
+}
